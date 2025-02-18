@@ -10,7 +10,7 @@ Explore the live dashboard Welcome to Business Insights 360 - Your Gateway to Da
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 
 
-Live Dashboard
+
 Explore the live dashboard [here](https://app.powerbi.com/groups/me/reports/a0c834d0-6eaa-4081-91bb-acd4d2faa10e/ReportSection3e6d270a5b20870d7cd8?experience=power-bi)
 
 
